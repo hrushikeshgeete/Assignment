@@ -1,0 +1,5 @@
+linkedin_data_parsing.py - Code that parse json file.
+
+sample_1000.json         - Sample json file
+
+edited_sample.json       - Edited json file for jsonlint validation
